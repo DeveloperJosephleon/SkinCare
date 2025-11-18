@@ -159,6 +159,10 @@ h3 {
 
 .brand-name {
     color: var(--charcoal);
+    
+}
+.brand-name-footer {
+    
     color: var(--off-white);
 }
 
